@@ -1,0 +1,124 @@
+﻿body {
+    ackground-color: Gainsboro;
+    background-color: blanchedalmond;
+}
+.gab{
+    background-image: url(../Scarlett.jpg);
+    padding-bottom: 100px;
+    
+
+}
+.menu>ul>li>a{
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+}
+
+.img {
+    width: 16%;
+    height: 140px;
+    display: inline;
+}
+
+
+.img>img{
+    width: 33%;
+    height: 220PX;
+}
+.header{
+  font-size: 30px;
+}
+.menu>ul>li{
+    text-decoration: none;
+    display:inline;
+    margin: 12%;
+}
+hr {
+    border: none; /* Убираем границу */
+    background-color: DarkGrey; /* Цвет линии */
+    color: DarkGrey; /* Цвет линии для IE6-7 */
+    height: 2px; /* Толщина линии */
+}
+.sul{
+    text-align: center;
+}
+.sul>a{
+    text-decoration: none;
+}
+.sul>a+a{
+    
+    margin-left: 29%;
+}
+.dline{
+    margin-bottom: 100px;
+}
+.hrf{
+    font-family: system-ui;
+}
+.figa{
+    margin-bottom: 150px;
+}
+.men>ul>li>a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    background-color: rgba(red, green, blue, 13%);
+    border-radius: 2px;   
+}
+.img_menu{
+    float: left;
+    width: 70%;
+    position: relative;
+    
+}
+.img_menu img{
+    width: 100%;
+    max-height: 620px;
+
+    
+}
+.suk{
+    color: DarkBlue;
+}
+.aka{
+    display: flex;
+    margin-bottom: 100px;
+}
+.line { 
+    border-left: 2px solid #ccc; /* Параметры линии */ 
+    margin-left: 20px; /* Отступ слева */
+    padding-left: 10px; /* Расстояние от линии до текста */ 
+    font-size: 20px;
+   }
+   .site-footer {
+    min-width: 550px;
+    background-color: grey;
+    color: Navy;
+    position: relative;
+    width: 100%;
+    padding: 1px
+
+  }
+  .image {
+	position	: relative;
+	width		: 100%; /* for IE 6 */
+}
+.form{
+    text-align: end;
+}
+.form>form>p{
+    padding-right: 42%;
+
+}
+.shrift{
+    font-variant: small-caps;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+::marker{
+    align-items: center;
+}
+.description{
+    text-align: center;
+    margin: auto;
+    width: 80%;
+}
